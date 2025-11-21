@@ -2,7 +2,6 @@
 <h3 align="center">A Senior Software Engineer.</h3>
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=techrabbits" alt="techrabbits" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/techrabbits" target="blank"><img src="https://img.shields.io/twitter/follow/techrabbits?logo=twitter&style=for-the-badge" alt="techrabbits" /></a> </p>
 
