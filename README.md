@@ -9,7 +9,7 @@
 
 - 🔭 Sia Partner [New York, NY](April 2020 - Present)
 
-- 👯 IBM [Armonk, NY](June 2017 - April 2020)
+- 👯 Saritasa [Irvine, CA](June 2017 - April 2020)
 
 - 🤝 Kaseya [Miami,FL](May 2014 - June 2017)
 
